@@ -17,10 +17,10 @@ Focused on building full-stack applications using front-end and back-end technol
 Specialization focused on building scalable applications with PHP and Laravel.  
 Topics covered include MVC architecture, advanced routing, Eloquent ORM, CRUD operations, Blade templating, validation, REST APIs, middleware, authentication & authorization, database management, migrations, seeders, deployment, and security.
 
-### Key Topics Covered
+#### Key Topics:
 - HTML, CSS, Responsive Design, Bootstrap, JavaScript ES6+  
 - JavaScript DOM, API Fetch, componentization  
-- PHP (basic & intermediate), OOP, MVC  
+- PHP, OOP, MVC  
 - Laravel: Routing, Controllers, Blade, Migrations, Factories, Eloquent ORM  
 - RESTful API & JSON  
 - SQL, MySQL, and database design  
