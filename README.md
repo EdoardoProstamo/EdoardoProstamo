@@ -1,30 +1,32 @@
 # 👋 Hi, I'm Edoardo Prostamo  
 ### 💻 Jr. Full Stack Web Developer
 
-Sono un Jr. Full Stack Web Developer con un forte orientamento alla scrittura di codice pulito, all’ottimizzazione dei flussi e alla progettazione di architetture scalabili. Durante il percorso Boolean ho lavorato su progetti reali, sviluppando applicazioni full stack complete e approfondendo sia la parte front-end che back-end. Mi interessa crescere in ambienti moderni, collaborativi e tecnici, dove posso contribuire alla progettazione e allo sviluppo di soluzioni performanti e robuste.
+I'm a Jr. Full Stack Web Developer with a strong focus on writing clean code, optimizing workflows, and designing scalable architectures.  
+During my training at Boolean, I worked on real-world projects, developing complete full-stack applications and deepening both front-end and back-end skills.  
+I'm eager to grow in modern, collaborative, and technically challenging environments where I can contribute to designing and developing performant and robust solutions.
 
 ---
 
 ## 🎓 Education & Training
 
-### **Full Stack Web Development Course – Boolean (2025)**
-Approccio pratico e intensivo allo sviluppo web moderno.  
-Focalizzato sulla realizzazione di applicazioni full stack tramite tecnologie front-end e back-end, seguendo flussi professionali di lavoro (Git workflow, API integration, component-based development, MVC).
+### Full Stack Web Development Course – Boolean (2025)
+Intensive, hands-on approach to modern web development.  
+Focused on building full-stack applications using front-end and back-end technologies, following professional workflows (Git, API integration, component-based development, MVC).
 
-### **PHP and Laravel Specialization**
-Specializzazione orientata alla costruzione di applicazioni scalabili con **PHP** e **Laravel**.  
-Approfonditi: MVC, routing avanzato, Eloquent ORM, CRUD operations, Blade, validazione, API REST, middleware, autenticazione & autorizzazione, gestione database, migrazioni, seeder, deployment e sicurezza.
+### PHP and Laravel Specialization
+Specialization focused on building scalable applications with PHP and Laravel.  
+Topics covered include MVC architecture, advanced routing, Eloquent ORM, CRUD operations, Blade templating, validation, REST APIs, middleware, authentication & authorization, database management, migrations, seeders, deployment, and security.
 
-### **Key Topics Covered**
+### Key Topics Covered
 - HTML, CSS, Responsive Design, Bootstrap, JavaScript ES6+  
-- JavaScript DOM, API Fetch, componentizzazione  
-- PHP base & intermedio, OOP, MVC  
+- JavaScript DOM, API Fetch, componentization  
+- PHP (basic & intermediate), OOP, MVC  
 - Laravel: Routing, Controllers, Blade, Migrations, Factories, Eloquent ORM  
 - RESTful API & JSON  
-- SQL, MySQL e database design  
+- SQL, MySQL, and database design  
 - Git & GitHub workflow  
 - Vite, NPM, Node.js, Express  
-- Deployment & environment management  
+- Deployment & environment management 
 
 ---
 
