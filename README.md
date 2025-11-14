@@ -56,7 +56,6 @@ Topics covered include MVC architecture, advanced routing, Eloquent ORM, CRUD op
 ---
 
 ## 🌱 Currently Learning / Future Focus
-**Balanced Growth Path**
 - Consolidating React and Laravel  
 - Studying TypeScript to improve front-end reliability  
 - Improving professional Git workflow, project structure and development patterns  
